@@ -9,7 +9,7 @@
 body{
     background-color: #55efc4;
 }
-::-webkit-scrollbar{
+/* ::-webkit-scrollbar{
     width: 10px;
 }
 ::-webkit-scrollbar-track{
@@ -17,7 +17,7 @@ body{
 }
 ::-webkit-scrollbar-thumb{
     background-color: #55efc4;
-}
+} */
 .container{
     width: 490px;
     background-color:#fff ;
